@@ -1,0 +1,15 @@
+A cat is walking down an alleyway in a sunny day; A cat is walking down an alleyway in a rainy day; A cat is walking down an alleyway
+A ship is sailing on the ocean in a sunny day; A ship is sailing on the ocean in a rainy day; A ship is sailing on the ocean
+A car is driving on the road in a sunny day; A car is driving on the road in a rainy day; A car is driving on the road
+A butterfly is fluttering in a garden in a sunny day; A butterfly is fluttering in a garden in a rainy day; A butterfly is fluttering in a garden
+A train is moving along the tracks in a sunny day; A train is moving along the tracks in a rainy day; A train is moving along the tracks
+A boat is drifting along a river in a sunny day; A boat is drifting along a river in a rainy day; A boat is drifting along a river
+A horse is galloping across an open field in a sunny day; A horse is galloping across an open field in a rainy day; A horse is galloping across an open field
+A dog is running through a forest in a sunny day; A dog is running through a forest in a rainy day; A dog is running through a forest
+A deer is leaping across a meadow in a sunny day; A deer is leaping across a meadow in a rainy day; A deer is leaping across a meadow 
+A motorcycle is moving along a road in a sunny day; A motorcycle is moving along a road in a  rainy day; A motorcycle is moving along a road
+A surfer is riding a wave in a sunny day; A surfer is riding a wave in a rainy day; A surfer is riding a wave
+A hot air balloon is rising in a sunny day; A hot air balloon is rising in a rainy day; A hot air balloon is rising
+A bird is flying across the sky in a sunny day; A bird is flying across the sky in a rainy day; A bird is flying across the sky
+A man is jogging in the park in a sunny day; A man is jogging in the park in a rainy day; A man is jogging in the park
+A kite is flying in the sky in a sunny day; A kite is flying in the sky in a rainy day; A kite is flying in the sky

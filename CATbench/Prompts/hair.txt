@@ -1,0 +1,15 @@
+A man with short hair is running through a park; A man with long hair is running through a park; A man is running through a park.
+A woman with short hair is riding a bike; A woman with long hair is riding a bike; A woman is riding a bike.
+A man with short hair is playing the guitar on a stage; A man with long hair is playing the guitar on a stage; A man is playing the guitar on a stage.
+A girl with short hair is swinging on a playground swing.; A girl with long hair is swinging on a playground swing.; A girl is swinging on a playground swing.
+A woman with short hair is laughing.; A woman with long hair is laughing.; A woman is laughing.
+A man with short hair is lifting weights at the gym.; A man with long hair is lifting weights at the gym.; A man is lifting weights at the gym.
+A woman with short hair is riding a horse.; A woman with long hair is riding a horse.; A woman is riding a horse.
+A man with short hair is playing the piano.; A man with long hair is playing the piano.; A man is playing the piano.
+A woman with short hair is dancing in the room.; A woman with long hair is dancing in the room.; A woman is dancing in the room.
+A man with short hair is drinking water.; A man with long hair is drinking water.; A man is drinking water.
+A woman with short hair is walking by the river.; A woman with long hair is walking by the river.; A woman is walking by the river.
+A boy with short hair is jumping up and down.; A boy with long hair is jumping up and down.; A boy is jumping up and down.
+A man with short hair is clapping his hands.; A man with long hair is clapping his hands.; A man is clapping his hands.
+A woman with short hair is rowing a boat on a lake.; A woman with long hair is rowing a boat on a lake.; A woman is rowing a boat on a lake.
+A man with short hair is singing on stage.; A man with long hair is singing on stage.; A man is singing on stage.

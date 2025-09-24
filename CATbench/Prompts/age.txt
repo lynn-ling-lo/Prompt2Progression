@@ -1,0 +1,17 @@
+A young man is running in the park; An old man is running in the park; A man is runing in the park
+A young woman is painting a picture; An old woman is painting a picture; a woman is painting a picture
+A young man is riding a bicycle; An old man is riding a bicycle; A man is riding a bicycle
+A young man is lifting weights at the gym; An old man is lifting weights at the gym; A man is ifting weights at the gym
+A young man is climbing a mountain; An old man is climbing a mountain; a man is climbing a mountain
+A young woman is walking a dog in the park; An old woman is walking a dog in the park; a woman is walking a dog
+A young man is playing soccer; An old man is playing soccer; a man is playing soccer
+A young woman is reading a book; An old woman is reading a book; a woman is reading a book
+A young woman is walking by the river.; An old woman is walking by the river; a woman is walking by the river
+A young woman is riding a horse; An old woman is riding a horse; a woman is riding a horse
+A young man is playing a guitar; An old man is playing a guitar; a man is playing the guitar
+A young boy is running through a field; An old man is running through a field; a man is running through a field
+A young man is rowing a boat; An old man is rowing a boat; a man is rowing a boat
+A young man is fishing by the lake; An old man is fishing by the lake; a man is fishing by the lake
+A young woman is singing on stage; An old woman is singing on stage; a woman is singing on stage
+A man without a beard is smiling; A man with a beard is smiling; A man is smiling
+A man without a beard is applauding; A man with a beard is applauding; A man is applauding

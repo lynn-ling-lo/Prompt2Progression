@@ -1,0 +1,15 @@
+A cat is walking down an alleyway in the dark light; A cat is walking down an alleyway in the bright light; A cat is walking down an alleyway; 
+A ship is sailing on the ocean in the dark light; A ship is sailing on the ocean in the bright light; A ship is sailing on the ocean
+A car is driving on the road in the dark light; A car is driving on the road in the bright light; A car is driving on the road
+A butterfly is fluttering in a garden in the dark light; A butterfly is fluttering in a garden in the bright light; A butterfly is fluttering in a garden
+A train is moving along the tracks in the dark light; A train is moving along the tracks in the bright light; A train is moving along the tracks
+A boat is drifting along a river in the dark light; A boat is drifting along a river in the bright light; A boat is drifting along a river
+A horse is galloping across an open field in the dark light; A horse is galloping across an open field in the dark light in the bright light; A horse is galloping across an open field
+A dog is running through a forest in the dark light; A dog is running through a forest in the bright light; A dog is running through a forest
+A deer is leaping across a meadow in the dark light; A deer is leaping across a meadow in the bright light; A deer is leaping across a meadow
+A motorcycle is moving along a road in the dark light; A motorcycle is moving along a road in the bright light; A motorcycle is moving along a road
+A surfer is riding a wave in the dark light; A surfer is riding a wave in the bright light; A surfer is riding a wave
+A hot air balloon is rising in the dark light; A hot air balloon is rising in the bright light; A hot air balloon is rising
+A bird is flying in the dark light; A bird is flying in the bright light; A bird is flying 
+A man is jogging in the park in the dark light; A man is jogging in the park  in the bright light; A man is jogging in the park
+A kite is flying in the sky in the dark light; A kite is flying in the sky in the bright light; A kite is flying in the sky

@@ -1,0 +1,15 @@
+A black bird is flying; A white bird is flying; A bird is flying
+A woman in a black hat is laughing; a woman in a white hat is laughing; A woman in a hat is laughing
+A woman with a red scarf is waving.; A woman with a yellow scarf is waving;  A woman with a scarf is waving
+A man in a blue top is running; A man in a white top is running; A man in a top is running
+A black dog is running on the field; A white dog is running on the field; A dog is running on the filed
+A brown leaf is drifting down from a tree; a red leaf is drifting down from a tree; a leaf is drifting down from a tree.
+A blue kite is flying in the wind; a green kite is flying in the wind; a kite is flying in the wind.
+A green leaf is floating on the water; a yellow leaf is floating on the water; a leaf is floating on the water.
+A blue car is driving down the road; a red car is driving down the road; a car is driving down the road.
+A green apple is hanging from a branch; a red apple is hanging from a branch; an apple is hanging from a branch.
+A man in a black suit is speaking; a man in a white suit is speaking; a man in a suit is speaking.
+A woman in a blue dress is dancing; a woman in a yellow dress is dancing; a woman in a dress is dancing.
+A grey rock is rolling down the hill; a brown rock is rolling down the hill; a rock is rolling down the hill.
+A red boat is drifting on the lake; a green boat is drifting on the lake; a boat is drifting on the lake.
+A brown squirrel is climbing a tree; a grey squirrel is climbing a tree; a squirrel is climbing a tree.

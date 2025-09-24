@@ -1,0 +1,15 @@
+A glass bottle is rolling across the table; A plastic bottle is rolling across the table; A bottle is rolling across the table
+A wool sweater is blowing in the wind; A silk sweater is blowing in the wind; A sweater is blowing in the wind.
+A paper bag is floating down a stream; A fabric bag is floating down a stream; A bag is floating down a stream.
+A leather ball is bouncing on the ground; A rubber ball is bouncing on the ground; A ball is bouncing on the ground. 
+A plastic cup is rolling in the sand; A glass cup is rolling in the sand; A cup is rolling in the sand
+A wooden pencil is rolling on the desk; A metal pencil is rolling on the desk; A pencil is rollin on the desk
+A copper coin is spinning on the table; A silver coin is spinning on the table; A coin is spinning on the table
+A man is biking on a wooden bridge; A man is biking on a metal bridge; A man is biking on a bridge.
+A woman is playing soccer on a sand field; A woman is playing soccer on a grassy field; A woman is playing soccer.
+A man is rowing a wooden boat on a lake; A man is rowing a glass boat on a lake; A man is rowing a boat on a lake.
+A child is sliding down a grass hill; A child is sliding down a stone hill; A child is sliding down a hill
+A man is walking up wooden stairs; A man is walking up metal stairs; A man is walking up stairs
+A woman is running on a stone pathway; A woman is running on a glass pathway; A woman is running on a pathway
+A paper kite is flying in the sky; A plastic kite is flying in the sky; A kite is flying in the sky
+A wooden windmill is spinning in the breeze; A paper windmill is spinning in the breeze; A windmill is spinning in the breeze.
