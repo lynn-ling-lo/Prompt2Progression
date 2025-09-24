@@ -146,8 +146,8 @@ def main():
     prompt_list = load_prompts_mp(args.prompt_file)
     video_list = [video for video in video_list if video.endswith('.mp4')]
     coarse_score, fine_mean = clip_directional_score(video_list, prompt_list,args)
-    print('coarse clip directional score: ',coarse_score)
-    print('fine clip directional score: ',fine_mean)
+    print('Wholistic Transition Score: ',coarse_score)
+    print('Frame-wise Transition Score: ',fine_mean)
     
 
 if __name__ == "__main__":
