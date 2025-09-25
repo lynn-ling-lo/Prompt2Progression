@@ -74,12 +74,6 @@ python evaluate.py --videos_path /path/to/videos \
 | **Ours** | **0.1486** | **0.0201** |
 
 ### Qualitative Results
-![Results1](assets/qualitative_results1.png)
-*A bustling cityscape at midday, bathing in bright sunlight -> A nighttime cityscape under heavy rain*
-![Results2] (assets/qualitative_results2.png)
-*A ship sailing on the ocean in the dark light -> A ship sailing on the ocean in the bright light*
-![Results3] (assets/qualitative_results3.png)
-A slender branch with fresh green leaves -> A branch adorned with a flower in full bloom, the petals glowing under the warm sunlight* 
 
 
 
