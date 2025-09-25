@@ -75,7 +75,10 @@ python evaluate.py --videos_path /path/to/videos \
 
 ### Qualitative Results
 ![Results](assets/Results1.gif)
+*A bustling cityscape at midday, bathing in bright sunlight -> A nighttime cityscape under heavy rain*
+
 ![Results](assets/Results2.gif)
+*A ship sailing on the ocean in the dark light -> A ship sailing on the ocean in the bright light*
 
 
 
