@@ -1,6 +1,6 @@
 name="test"
 
-ckpt='/path/to/video_crafter2_checkpoints'
+ckpt='../checkpoints/base_512_v2'
 config='configs/inference_t2v_512_v2.0.yaml'
 
 prompt_file="../prompts/test_prompts_mp.txt"
