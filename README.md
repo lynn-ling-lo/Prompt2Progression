@@ -74,7 +74,8 @@ python evaluate.py --videos_path /path/to/videos \
 | **Ours** | **0.1486** | **0.0201** |
 
 ### Qualitative Results
-
+![Results](assets/Results1.gif)
+![Results](assets/Results2.gif)
 
 
 
