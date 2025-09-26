@@ -13,5 +13,3 @@ A young boy is running through a field; An old man is running through a field; a
 A young man is rowing a boat; An old man is rowing a boat; a man is rowing a boat
 A young man is fishing by the lake; An old man is fishing by the lake; a man is fishing by the lake
 A young woman is singing on stage; An old woman is singing on stage; a woman is singing on stage
-A man without a beard is smiling; A man with a beard is smiling; A man is smiling
-A man without a beard is applauding; A man with a beard is applauding; A man is applauding
